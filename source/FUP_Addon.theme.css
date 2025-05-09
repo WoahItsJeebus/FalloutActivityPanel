@@ -10,6 +10,7 @@
  */
  @import "https://raw.githubusercontent.com/WoahItsJeebus/FalloutActivityPanel/refs/heads/main/Utilities/Glow.css";
  
+ /* Main Window Edges */
  .overlay_c0bea0,
  .custom-user-profile-theme {
      border: 1px solid rgb(74, 239, 152, 0.7) !important;

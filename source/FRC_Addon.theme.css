@@ -1,0 +1,9 @@
+.scroller_c1e9c4 {
+    background-color: rgba(0, 31, 0, 0.9) !important;
+    box-shadow: 0 0 12px rgba(74, 239, 152, 0.6);
+    border: 1px solid rgb(74, 239, 152) !important;
+    
+    border-radius: 12px;
+    animation: glitchyGlowSoft2 12s steps(60, end) infinite;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
+}
