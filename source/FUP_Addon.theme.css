@@ -9,13 +9,7 @@
  * @authorId 507287352234999809
  */
 
- .outer_c0bea0 {
-    border: 1px solid rgb(74, 239, 152, 0.7) !important;
-    box-shadow: 0 0 12px rgba(74, 239, 152, 0.7);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
-    animation: glitchyGlowSoft2 2s steps(60, end) infinite;
- }
-
+ 
 @keyframes glitchyGlowSoft1 {
     0%   { box-shadow: 0 0 8.56px rgba(74, 239, 152, 0.48); }
     1%   { box-shadow: 0 0 8.49px rgba(74, 239, 152, 0.48); }
