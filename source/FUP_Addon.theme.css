@@ -11,4 +11,6 @@
 
  .outer_c0bea0 {
     border: 0.1px solid rgb(74, 239, 152) !important;             /* Border: same as text */
+    transition: border 0.3s ease;
+    animation: glitchyGlowSoft2 2s steps(60, end) infinite;
  }
